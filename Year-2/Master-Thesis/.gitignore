@@ -4,3 +4,6 @@ docs/*_bg.*
 *.tex
 figures/
 future.md
+references/extracted/
+scripts/__pycache__/
+.obsidian

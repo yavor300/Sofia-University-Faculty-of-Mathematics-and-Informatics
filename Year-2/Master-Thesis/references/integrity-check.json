@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "source_pdfs": 2,
+  "literature_notes": 2,
+  "markdown_articles": 21,
+  "bibliography_entries": 2,
+  "wikilinks_checked": 203,
+  "errors": [],
+  "limitation": "Structural checks do not validate scientific truth; all articles require human review."
+}
