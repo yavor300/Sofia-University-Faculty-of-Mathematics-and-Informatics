@@ -1,6 +1,6 @@
 prototype/
 docs/*_bg.*
-*.pdf
+docs/*.pdf
 *.tex
 figures/
 future.md
