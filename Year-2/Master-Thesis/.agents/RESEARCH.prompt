@@ -90,25 +90,6 @@ The most important scientific contributions.
 # Results and Findings
 Summarize the actual findings and their evidence.
 
-# Limitations
-Limitations stated by the authors and any additional
-limitations you identify, clearly distinguished.
-
-# Relevance to My Master's Thesis
-Evaluate relevance to:
-1. Heterogeneous autonomous agents
-2. Multi-agent orchestration
-3. Organizational and shared memory
-4. Controlled self-improvement
-5. System reliability and evaluation
-
-# Important Evidence
-Create a table containing:
-- Claim or finding
-- Supporting PDF page or section
-- Evidence type
-- Confidence or verification status
-
 # Related Concepts
 Link relevant concepts using Obsidian [[wikilinks]].
 
