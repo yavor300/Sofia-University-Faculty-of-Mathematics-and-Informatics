@@ -1,9 +1,9 @@
 ---
 type: qa
-title: "Може ли да обсниш този откъс? - Safeguards"
+title: "Safeguards"
 created: 2026-11-15
-status: ai-draft
-reading_status: unread
+status: human-reviewed
+reading_status: read
 ---
 
 ### 1. NetSafe: Как топологията влияе върху разпространението на атаки

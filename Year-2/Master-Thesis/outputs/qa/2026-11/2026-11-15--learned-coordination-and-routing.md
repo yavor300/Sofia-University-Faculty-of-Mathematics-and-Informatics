@@ -2,8 +2,8 @@
 type: qa
 title: "Какво означават обучена координация и рутиране?"
 created: 2026-11-15
-status: ai-draft
-reading_status: unread
+status: human-reviewed
+reading_status: read
 ---
 
 **Рутирането е изборът към кой агент да бъде насочена задача, съобщение или междинен резултат и кой да действа след това. Обучената координация означава, че механизмът за такива решения е научен от данни или обратна връзка.** Той може да определя и кои агенти да участват в екипа. Това е смисълът на разграничението при [Zhu et al. (2026), §4.2, PDF с. 10–11](/home/yavorchamov/Sofia-University-Facultet-of-Mathematics-and-Informatics/Year-2/Master-Thesis/raw/papers/futureinternet-18-00326-v2.pdf).

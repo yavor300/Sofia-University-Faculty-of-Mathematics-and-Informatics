@@ -1,9 +1,9 @@
 ---
 type: qa
-title: "Може ли да обсниш този откъс? - 4.2. The Adaptivity Dimension"
+title: "The Adaptivity Dimension"
 created: 2026-11-15
-status: ai-draft
-reading_status: unread
+status: human-reviewed
+reading_status: read
 ---
 
 ### 1. Статични спрямо Динамично-адаптивни среди (*Static vs. Dynamic–Adaptive*)
